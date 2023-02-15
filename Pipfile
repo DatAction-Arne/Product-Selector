@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 flask = ">=2.0.0"
-redis = "*"
 pymysql = "*"
 gevent = "*"
 platformshconfig = "~=2.0"

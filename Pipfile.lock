@@ -250,14 +250,6 @@
             "markers": "python_full_version >= '3.6.8'",
             "version": "==3.0.8"
         },
-        "redis": {
-            "hashes": [
-                "sha256:0107dc8e98a4f1d1d4aa00100e044287f77121a1e6d2085545c4b7fa94a7a27f",
-                "sha256:4e95f4ec5f49e636efcf20061a5a9110c20852f607cfca6865c07aaa8a739ee2"
-            ],
-            "index": "pypi",
-            "version": "==4.2.2"
-        },
         "werkzeug": {
             "hashes": [
                 "sha256:1ce08e8093ed67d638d63879fd1ba3735817f7a80de3674d293f5984f25fb6e6",
